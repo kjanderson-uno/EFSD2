@@ -1,0 +1,4 @@
+Django
+Django-crispy-forms
+djangorestframework
+django-mathfilters
