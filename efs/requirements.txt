@@ -2,3 +2,4 @@ Django
 Django-crispy-forms
 djangorestframework
 django-mathfilters
+psycopg2
