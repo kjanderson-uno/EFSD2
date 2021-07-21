@@ -3,3 +3,4 @@ Django-crispy-forms
 djangorestframework
 django-mathfilters
 psycopg2
+requests
